@@ -16,4 +16,3 @@ const CONFIG = {
     messDesc: 'Kem dưa hấu tới đâyyyyy',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/coca4819
-}
